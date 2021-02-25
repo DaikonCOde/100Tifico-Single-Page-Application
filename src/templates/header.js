@@ -2,7 +2,7 @@ const Header = () => {
   const view = `
     <div class="header-main">
       <div class="header-logo">
-        <h1><a href="/">100tifi.co</a></h1>
+        <h1><a href="/Single-Page-Application-JS">100tifi.co</a></h1>
       </div>
       <div class="header-nav">
         <a href="#/about">About</a>
